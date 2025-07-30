@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Urban Roots",
+    "description": "Trendy Cuts & Styles",
+    "address": "56 Connaught Place, Delhi",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664301489002-2fed4596c101?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+    "genderType": "Male",
+    "rating": "4.2",
+    "latitude": 28.6315,
+    "longitude": 77.2167,
+    "offer": "Buy 1 Get 1 Free on Beard Trim",
+    "services": [
+      { "name": "Haircut", "price": 300 },
+      { "name": "Beard Trim", "price": 150 }
+    ]
+  },
+  {
+    "name": "Bliss Beauty Lounge",
+    "description": "Luxury Salon for Her",
+    "address": "C-Block, South Ex II, Delhi",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664301489002-2fed4596c101?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+    "genderType": "Female",
+    "rating": "4.7",
+    "latitude": 28.5678,
+    "longitude": 77.2345,
+    "offer": "Free Hair Wash with Hair Spa",
+    "services": [
+      { "name": "Hair Spa", "price": 750 },
+      { "name": "Manicure", "price": 350 }
+    ]
+  },
+  {
+    "name": "Revive Men's Studio",
+    "description": "Recharge & Refresh",
+    "address": "Rajouri Garden, Delhi",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664301489002-2fed4596c101?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+    "genderType": "Male",
+    "rating": "4.4",
+    "latitude": 28.6432,
+    "longitude": 77.1123,
+    "offer": "15% OFF on all services",
+    "services": [
+      { "name": "Haircut", "price": 200 },
+      { "name": "Head Massage", "price": 180 }
+    ]
+  },
+  {
+    "name": "Radiance Unisex Spa",
+    "description": "Glow from Within",
+    "address": "Saket, Delhi",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664301489002-2fed4596c101?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+    "genderType": "Unisex",
+    "rating": "4.8",
+    "latitude": 28.5245,
+    "longitude": 77.2066,
+    "offer": "Flat 25% OFF on Couple Packages",
+    "services": [
+      { "name": "Couple Massage", "price": 1600 },
+      { "name": "Facial", "price": 500 }
+    ]
+  },
+  {
+    "name": "Aura Hair & Beauty",
+    "description": "Premium Care, Affordable Price",
+    "address": "Rohini Sector 7, Delhi",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664301489002-2fed4596c101?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2Fsb258ZW58MHx8MHx8fDA%3D",
+    "genderType": "Female",
+    "rating": "4.3",
+    "latitude": 28.7199,
+    "longitude": 77.1324,
+    "offer": "Combo: Haircut + Facial @ ₹699",
+    "services": [
+      { "name": "Haircut", "price": 350 },
+      { "name": "Facial", "price": 500 }
+    ]
+  }
+]
