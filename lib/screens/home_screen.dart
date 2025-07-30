@@ -1,3 +1,4 @@
+import 'package:app/events/location_event.dart' as loc_event;
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
@@ -6,8 +7,8 @@ import '../models/salon_model.dart';
 import '../widgets/salon_card.dart';
 
 import '../blocs/location_bloc.dart';
-import '../blocs/location_state.dart';
-import '../blocs/location_event.dart' as loc_event;
+import '../states/location_state.dart';
+
 
 import '../blocs/spa_bloc.dart';
 

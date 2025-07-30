@@ -1,3 +1,4 @@
+import 'package:app/events/location_event.dart' as locEvent;
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
@@ -5,8 +6,8 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 
 import '../blocs/location_bloc.dart';
-import '../blocs/location_event.dart' as locEvent;
-import '../blocs/location_state.dart' as locState;
+
+import '../states/location_state.dart' as locState;
 import '../models/salon_model.dart';
 import 'home_screen.dart';
 

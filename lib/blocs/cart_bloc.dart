@@ -1,6 +1,7 @@
+import 'package:app/events/cart_event.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'cart_event.dart';
-import 'cart_state.dart';
+
+import '../states/cart_state.dart';
 import '../models/service_model.dart';
 class CartBloc extends Bloc<CartEvent, CartState> {
   CartBloc(List<ServiceModel> initialServices)

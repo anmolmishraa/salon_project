@@ -1,8 +1,9 @@
+import 'package:app/events/cart_event.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:app/blocs/cart_bloc.dart';
-import 'package:app/blocs/cart_event.dart';
-import 'package:app/blocs/cart_state.dart';
+
+import 'package:app/states/cart_state.dart';
 import 'package:app/widgets/pay_dailog.dart';
 import '../models/service_model.dart';
 

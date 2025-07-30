@@ -1,10 +1,10 @@
+import 'package:app/events/location_event.dart' as evt;
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:geocoding/geocoding.dart';
 
-import 'location_event.dart' as evt;
-import 'location_state.dart' as st;
+import '../states/location_state.dart' as st;
 
 class LocationBloc extends Bloc<evt.LocationEvent, st.LocationState> {
   LocationBloc() : super(st.LocationInitial()) {
